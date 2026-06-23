@@ -7,7 +7,7 @@ Analysis of Google Merchandise Store user behavior and sales performance using G
 **Dataset:** [Google Analytics Sample Dataset](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data)
 
 ## Dashboard
-[View Interactive Dashboard](#) ← 之后替换成你的Looker Studio链接
+[View Interactive Dashboard](https://datastudio.google.com/reporting/3a1550b1-dd1d-438d-aac8-d8379a227d72) 
 
 ## Key Findings
 *(之后填写)*
