@@ -1,2 +1,19 @@
-# google-analytics-ecommerce-analysis
-E-commerce funnel and channel analysis using Google Analytics BigQuery data
+# Google Analytics E-commerce Analysis
+
+## Project Overview
+Analysis of Google Merchandise Store user behavior and sales performance using Google Analytics 360 data from BigQuery (Aug 2016 – Aug 2017).
+
+**Tools:** BigQuery (SQL), Looker Studio  
+**Dataset:** [Google Analytics Sample Dataset](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data)
+
+## Dashboard
+[View Interactive Dashboard](#) ← 之后替换成你的Looker Studio链接
+
+## Key Findings
+*(之后填写)*
+
+## Analysis
+*(之后填写)*
+
+## SQL Queries
+*(之后填写)*
