@@ -148,7 +148,18 @@ All queries available in the `/queries` folder:
 | `07_display_anomaly_investigation.sql` | April 2017 Display revenue spike investigation |
 
 ---
+## AI-Assisted Workflow
 
+This project was developed using an AI-assisted analytics workflow, reflecting modern data analysis practices:
+
+- **SQL development** — Used Claude (Anthropic) as a pair programmer to iteratively develop and debug complex BigQuery queries, including nested UNNEST operations and multi-step CTEs
+- **Data interpretation** — Leveraged AI to cross-validate findings, identify anomalies (e.g., April 2017 Display spike), and pressure-test analytical logic
+- **Insight generation** — Used AI to synthesize patterns across multiple analyses into coherent business narratives and actionable recommendations
+- **Documentation** — AI-assisted writing of data quality notes, business recommendations, and README documentation
+
+> This workflow mirrors how modern analytics teams operate — using AI tools to accelerate development cycles while maintaining analytical rigor and business judgment.
+>
+> 
 ## Tools & Skills
 - **BigQuery** — SQL querying, nested/repeated field handling (UNNEST), CTEs, date functions, window functions
 - **Looker Studio** — Interactive dashboard, cross-filtering, multi-page report, custom SQL data sources
